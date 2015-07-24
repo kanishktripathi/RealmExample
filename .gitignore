@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/build
+/local.properties
+/.gradle
+/RealmApplication.iml
+/RealmGson.iml
+/RealmExample.iml

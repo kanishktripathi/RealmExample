@@ -1,2 +1,1 @@
-# RealmExample
 Basic Realm Example
